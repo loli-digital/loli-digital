@@ -13,6 +13,8 @@
 
 ## 📊 Mis estadísticas en GitHub  
 
+![Resumen de perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loli-digital&theme=radical)  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loli-digital&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loli-digital&layout=compact&theme=radical)  
