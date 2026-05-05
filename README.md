@@ -16,6 +16,14 @@
 ![Resumen de perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loli-digital&theme=radical)  
 
 ---
+## 💼Portfolio
+
+Donde podrás ver mis mejores proyectos, información sobre mí, mi CV. etc
+
+🔗[Portfolio](https://loli-digital.github.io/my-portfolio/)
+
+
+---
 
 ## ⭐ Proyecto destacado  
 
