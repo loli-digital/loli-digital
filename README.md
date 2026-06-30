@@ -40,7 +40,7 @@ Aplicación web de una clínica dental ficticia, con la funcionalidad de pedir c
 ## 🌱 Sobre mí  
 
 ✨ Me gusta crear proyectos donde combino diseño y programación.  
-⚡ Actualmente aprendiendo y mejorando en **Angular**.  
+⚡ Actualmente aprendiendo y mejorando en **React**.  
 🚀 Siempre con ganas de crecer y colaborar en proyectos interesantes.    
 
 
